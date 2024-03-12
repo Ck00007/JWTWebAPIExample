@@ -1,0 +1,1 @@
+﻿1.Install the nuget package Microsoft.AspNetCore.Authentication.JwtBearer
